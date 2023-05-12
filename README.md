@@ -1,4 +1,4 @@
-Realtime chat app using socket.io and vanilla JavaScript
+Realtime chat app using nodejs, socket.io and vanilla JavaScript
 
 
 Installation
